@@ -21,7 +21,7 @@ timezone: Asia/Seoul
 
 title: GyuSeong Lee                          # the main title
 
-tagline: /AI /Rust /etc   # it will display as the sub-title
+tagline: @AI @Rust @etc   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, responsive, and powerful Jekyll theme for presenting professional writing.
@@ -32,8 +32,8 @@ url: 'https://codehuv.github.io'
 github:
   username: codehuv             # change to your github username
 
-twitter:
-  username: twitter_username            # change to your twitter username
+# twitter:
+#   username: twitter_username            # change to your twitter username
 
 social:
   # Change to your full name.
