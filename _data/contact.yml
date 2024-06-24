@@ -2,7 +2,7 @@
 
 - type: github
   icon: "fab fa-github"
-
+  url : "https://github.com/codehuv"
 - type: twitter
   icon: "fa-brands fa-x-twitter"
 
